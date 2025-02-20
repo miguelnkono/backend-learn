@@ -1,0 +1,21 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "explanation on the REST API pattern with nodejs and expressjs",
+  "main": "index.mjs",
+  "scripts": {
+    "dev": "nodemon index.mjs",
+    "start": "node index.mjs"
+  },
+  "author": "Nkono Ndeme Miguel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.0",
+    "prettier-eslint": "^16.3.0"
+  }
+}
